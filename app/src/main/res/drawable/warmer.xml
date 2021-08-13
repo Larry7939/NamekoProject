@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+    <item android:drawable="@drawable/warmer1"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer2"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer3"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer4"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer5"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer6"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer7"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer8"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer9"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer10"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer9"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer8"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer7"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer6"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer5"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer4"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer3"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer2"
+        android:duration="100" />
+    <item android:drawable="@drawable/warmer1"
+        android:duration="100" />
+
+</animation-list>
